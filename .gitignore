@@ -1,0 +1,6 @@
+*.user
+build
+Makefile
+*.o
+*.gcda
+*.gcno
